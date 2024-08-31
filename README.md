@@ -1,3 +1,5 @@
+![logo](https://github.com/vJhonatan/iot-senai/blob/main/senai-logo.png)
+
 Destinado para exercícios e projetos de IOT (Internet of Things).
 
 <br>
