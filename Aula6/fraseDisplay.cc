@@ -20,15 +20,10 @@ void loop() {
   display.clearDisplay(); 
   display.setFont(&FreeMonoOblique9pt7b); 
   display.setTextColor(WHITE); 
-  display.setTextSize(0.5);
-  display.setCursor(16, 20); 
-  display.print("Disprei ="); 
+  display.setTextSize(0);
+  display.setCursor(10, 35); 
+  display.print("8 + 8 = 16"); 
 
-  display.setFont(&FreeMono9pt7b);
-  display.setCursor(12, 50);
-  display.setTextSize(0.5);
-  display.print("HelloWorld");
-  
   display.drawRect(0, 0, 128, 64, WHITE);
   display.display();
 }
